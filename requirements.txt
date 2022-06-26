@@ -1,0 +1,6 @@
+setuptools
+numpy==1.18
+scikit-learn
+pytelegrambotapi
+
+

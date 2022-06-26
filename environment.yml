@@ -1,0 +1,8 @@
+name: ml_project
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy=1.22
